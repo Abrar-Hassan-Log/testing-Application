@@ -1,4 +1,5 @@
-<img width="1625" height="819" alt="image" src="https://github.com/user-attachments/assets/dcfd8062-9a2f-4a96-a7e0-a9e88580370f" />**📋 Project Title: ASP.NET WebForms User Registration and Management System**
+<img width="1625" height="819" alt="image" src="https://github.com/user-attachments/assets/dcfd8062-9a2f-4a96-a7e0-a9e88580370f" />
+**📋 Project Title: ASP.NET WebForms Employee Registration and Management System**
 📝 Description
 This project is a User Registration and Management Web Application built using ASP.NET WebForms, AJAX (jQuery), and SQL Server. It provides full CRUD (Create, Read, Update, Delete) functionality, allowing users to register, view, update, and delete records dynamically without page reloads.
 
